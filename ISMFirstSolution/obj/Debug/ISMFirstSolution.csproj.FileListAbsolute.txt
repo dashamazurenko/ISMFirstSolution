@@ -1,0 +1,7 @@
+D:\Studies\Software Engineer Courses\ISMFirstConsoleProject\ISMFirstSolution\bin\Debug\ISMFirstSolution.exe.config
+D:\Studies\Software Engineer Courses\ISMFirstConsoleProject\ISMFirstSolution\bin\Debug\ISMFirstSolution.exe
+D:\Studies\Software Engineer Courses\ISMFirstConsoleProject\ISMFirstSolution\bin\Debug\ISMFirstSolution.pdb
+D:\Studies\Software Engineer Courses\ISMFirstConsoleProject\ISMFirstSolution\obj\Debug\ISMFirstSolution.csproj.AssemblyReference.cache
+D:\Studies\Software Engineer Courses\ISMFirstConsoleProject\ISMFirstSolution\obj\Debug\ISMFirstSolution.csproj.CoreCompileInputs.cache
+D:\Studies\Software Engineer Courses\ISMFirstConsoleProject\ISMFirstSolution\obj\Debug\ISMFirstSolution.exe
+D:\Studies\Software Engineer Courses\ISMFirstConsoleProject\ISMFirstSolution\obj\Debug\ISMFirstSolution.pdb
